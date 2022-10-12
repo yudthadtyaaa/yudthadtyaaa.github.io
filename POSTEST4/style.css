@@ -1,0 +1,91 @@
+.navbar {
+    margin: auto;
+    text-align: center;
+    background-color: rgb(50, 54, 176);
+    color: white;
+    border-radius: 10px;
+}
+
+.inputForm {
+    margin: auto;
+    text-align: center;
+    /* width: 300px; */
+    /* height: 300x; */
+    border: 20px;
+    border-radius: 10px;
+    /* padding: 10px; */
+    background-color: rgb(50, 54, 176);
+
+}
+
+.tabel {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5cm;
+    border-width: 100%;
+    border-radius: 10px;
+    width: 100%;
+    /* padding: 10px; */
+    background-color: rgb(50, 54, 176);
+}
+
+.tabel2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5cm;
+    border-width: 100%;
+    width: 100%;
+    padding: 10px;
+}
+
+.font1 {
+   color: white ;
+}
+.font2 {
+   color: white ;
+}
+.font3 {
+   color: white ;
+}
+.font4 {
+   color: white ;
+}
+.font5 {
+   color: white ;
+}
+.font6 {
+   color: white ;
+}
+
+.huruf1 {
+    color: white;
+}
+.huruf2 {
+    color: white;
+}
+.huruf3 {
+    color: white;
+}
+.huruf4 {
+    color: white;
+}
+.huruf5 {
+    color: white;
+}
+.huruf6 {
+    color: white;
+}
+.huruf7 {
+    color: white;
+}
+.pesan {
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    text-align: center;
+}
+
+.background1 , .background2{
+    background-image: url("background.jpg");
+}
+
+
